@@ -10,7 +10,6 @@ header img {
 	flex-grow: 1;
 }
 
-
 /*navigation*/
 
 .bg-nav {
@@ -26,3 +25,16 @@ header img {
 	background-color: #FFAB70;
 }
 
+section {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: #E56B15;
+}
+
+article img {
+	height: 210px;
+	width: 290px;
+	margin: 30px 40px;
+}
