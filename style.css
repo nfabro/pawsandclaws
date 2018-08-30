@@ -38,3 +38,17 @@ article img {
 	width: 290px;
 	margin: 30px 40px;
 }
+
+/*footer*/
+footer {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: #E56B15;
+}
+
+footer a {
+	margin: 30px;
+	color: white;
+}
