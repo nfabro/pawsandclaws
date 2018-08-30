@@ -6,6 +6,11 @@ header {
 	justify-content: center;
 }
 
+header img {
+	flex-grow: 1;
+}
+
+
 /*navigation*/
 
 .bg-nav {
