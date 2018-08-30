@@ -1,0 +1,16 @@
+/*navigation*/
+
+.bg-nav {
+	background-color: #E56B15;
+}
+
+
+
+/*hero image carousel*/
+
+.heroimg img {
+	height: 850px;
+	min-width: 100%;
+	background-color: #FFAB70;
+}
+
