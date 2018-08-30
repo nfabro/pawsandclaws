@@ -1,9 +1,16 @@
+/*header*/
+
+header {
+	background-color: #E56B15;
+	display: flex;
+	justify-content: center;
+}
+
 /*navigation*/
 
 .bg-nav {
 	background-color: #E56B15;
 }
-
 
 
 /*hero image carousel*/
